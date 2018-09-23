@@ -34,3 +34,17 @@ For Python 3.x :
 
 1. `cd C++/`
 2. `./brisquequality <image_path>`
+
+
+## Citation
+
+If you find this code useful in your research, please consider citing:
+
+@misc{Kushashwa Ravi Shrimali,
+Author = {Kushashwa Ravi Shrimali},
+Title = {No Reference Image Quality Assessment in Spatial Domain},
+Year = {2018},
+Publisher = {GitHub},
+journal = {Github repository},
+howpublished = {\url{https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model}},
+}
