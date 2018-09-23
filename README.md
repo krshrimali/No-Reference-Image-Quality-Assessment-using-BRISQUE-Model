@@ -1,2 +1,36 @@
-# No-Reference-Image-Quality-Assessment-using-BRISQUE-Model
-Implementation of the paper "No Reference Image Quality Assessment in the Spatial Domain" by A Mittal et al. in OpenCV (using both C++ and Python)
+**Note:** The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/).
+
+## Installation Instructions
+**Python 2.x LIBSVM Installation**
+`sudo apt-get install python-libsvm`
+
+**Python 3.x LIVSVM Installation and C++ LIBSVM Installation**
+
+For C++ :
+
+1. `cd C++/libsvm/`
+2. `cmake .`
+3. `make`
+
+For Python 3.x :
+
+1. `cd Python/libsvm/`
+2. `make`
+3. `cd python`
+4. `make`
+
+## Usage 
+
+**Python 2.x**
+
+1. `python2 brisquequality.py <image_path>`
+
+**Python 3.x** 
+
+1. `cd Python/libsvm/python/`
+2. `python3 brisquequality.py <image_path>`
+
+**C++**
+
+1. `cd C++/`
+2. `./brisquequality <image_path>`
