@@ -1,5 +1,9 @@
 **Note:** The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/).
 
+## Process
+
+![Steps to Calculate Image Quality Score using BRISQUE Model](https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model/blob/master/Images/Process_BRISQUE_Calculation.png)
+
 ## Installation Instructions
 **Python 2.x LIBSVM Installation**
 `sudo apt-get install python-libsvm`
@@ -34,6 +38,12 @@ For Python 3.x :
 
 1. `cd C++/`
 2. `./brisquequality <image_path>`
+
+## Example
+
+**Quality Score Comparison using BRISUQE Model**
+
+![Quality Score Comparison using BRISQUE Model](https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model/blob/master/Images/Table_Comparison_BRISQUE.png)
 
 
 ## Citation
