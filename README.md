@@ -1,4 +1,6 @@
-**Note:** The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/).
+## Note
+
+The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/). 
 
 ## Process
 
@@ -44,17 +46,3 @@ For Python 3.x :
 **Quality Score Comparison using BRISUQE Model**
 
 ![Quality Score Comparison using BRISQUE Model](https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model/blob/master/Images/Table_Comparison_BRISQUE.png)
-
-
-## Citation
-
-If you find this code useful in your research, please consider citing:
-    
-    @misc{Kushashwa Ravi Shrimali,
-    Author = {Kushashwa Ravi Shrimali},
-    Title = {No Reference Image Quality Assessment in Spatial Domain},
-    Year = {2018},
-    Publisher = {GitHub},
-    journal = {Github repository},
-    howpublished = {\url{https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model}},
-    }
