@@ -1,5 +1,8 @@
 ## Note
 
+## The repository is now archived. The code, updates and issues shall be posted here: https://github.com/spmallick/learnopencv/tree/master/ImageMetrics
+
+
 The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/). 
 
 ## Process
