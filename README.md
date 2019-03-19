@@ -1,7 +1,9 @@
 ## Note
 
-## The repository is now archived. The code, updates and issues shall be posted here: https://github.com/spmallick/learnopencv/tree/master/ImageMetrics
+## The repository is now archived. 
+## There have been many revisions, specially about the models used. Please check the work by @clunietp (https://github.com/clunietp) and myself on BRISQUE IQA committed to `opencv_contrib` here: https://github.com/opencv/opencv_contrib/tree/master/modules/quality
 
+**Note:** This work was originally published on LearnOpenCV. For code: https://github.com/spmallick/learnopencv/tree/master/ImageMetrics
 
 The work was published on https://www.learnopencv.com/. Link: [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/). 
 
