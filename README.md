@@ -1,6 +1,6 @@
 ## Note
 
-This repository was unarchived on 17th May 2020. Seeing this being used by many, the author has decided to make the necessary changes to make this code ready to be re-used. Please wait for another week (i.e. 24th May 2020) to see the changes in action before filing any issue. Though, if your work is urgent, please feel free to check the revisions made in the module committed to `opencv_contrib` (link below).
+Please see https://github.com/krshrimali/No-Reference-Image-Quality-Assessment-using-BRISQUE-Model/issues/4 if you are looking to contribute. :)
 
 **Note:** There have been many revisions, specially about the models used. Please check the work by @clunietp (https://github.com/clunietp) and myself on BRISQUE IQA committed to `opencv_contrib` here: https://github.com/opencv/opencv_contrib/tree/master/modules/quality
 
